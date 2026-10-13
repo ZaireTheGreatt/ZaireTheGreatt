@@ -38,7 +38,7 @@ I specialize in building process automations, backend services, and scalable wor
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Zaire's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaireTheGreatee&show_icons=true&theme=tokyonight&hide_border=true" alt="Zaire's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
